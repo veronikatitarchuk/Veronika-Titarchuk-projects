@@ -1,0 +1,86 @@
+.upper-header, .lower-header {
+    background-color: #CEEFF3;
+}
+
+.name {
+    font-family: Rasa;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 58px;
+
+    color: #465B6F;
+}
+
+.celsii, .farengheight {
+    width: 50px;
+    height: 50px;
+    color: white;
+    border-radius: 20px;
+}
+
+.celsii {
+    background: #4A868E;
+}
+
+.farengheight {
+    background: #a3cdd3;
+}
+
+.find-background {
+    background-color: white;
+    border-bottom-right-radius: 50%;
+    border-top-right-radius: 50%;
+}
+
+.form-control {
+    border-bottom-left-radius: 50%;
+    border-top-left-radius: 50%;
+}
+
+#inputGroup-sizing-lg{
+    border-radius: 20px;
+    color:white;
+    background: #4A868E;
+}
+
+.cur-loc {
+    color: #465B6F;;
+}
+
+.place {
+    color:white;
+}
+
+#today-forecast {
+    background-color: #CEEFF3;
+    border-radius: 20px;
+}
+
+.hello{
+    color: #465B6F;
+}
+
+.one-weather-item {
+    border-radius: 20px;
+}
+
+.header-clothes-girl, .header-clothes-boy {
+    border-radius: 20px;
+}
+
+.header-clothes-girl {
+    background-color: #CEEFF3;
+    color:#4a868e;
+}
+
+.header-clothes-boy {
+    background-color: #4a868e;
+    color: #CEEFF3;
+    border-color: #4A868E;
+}
+
+.footer {
+    background-color: #4A868E;
+    color: #CEEFF3;
+}
